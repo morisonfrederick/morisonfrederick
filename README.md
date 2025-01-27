@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 - 💻 I specialize in full-stack web development.
 - 🌱 I’m currently learning more about cloud computing and DevOps.
 - 🤝 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: [morisonfrederick@example.com](mailto:morisonfrederick@example.com)
+- 📫 How to reach me: [frederickmorison@gmail.com](mailto:frederickmorison@gmail.com)
 
 ## Skills
 
